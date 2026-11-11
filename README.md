@@ -128,15 +128,15 @@ Run time is about 7–10 minutes plus a few minutes for the enrichment step.
 
 | File | Manuscript |
 |---|---|
-| `figD_roc_pr_curves` | Fig. 2 |
-| `figE_metrics_vs_frequency` | Fig. 3 |
-| `figG_auroc_vs_target_coherence` | Fig. 4 |
-| `figH_top_bottom_adrs` | Fig. 5 |
-| `figI_enrichment_along_ranking` | Fig. 6 |
-| `figA_gene_vs_side_effect_similarity` | Fig. S1 |
-| `figB_network_train_test` | Fig. S2 |
-| `figC_auroc_vs_auprc` | Fig. S3 |
-| `figF_harmonic_vs_knn` | Fig. S4 |
+| `fig4_roc_pr_curves` | Fig. 2 |
+| `fig5_metrics_vs_frequency` | Fig. 3 |
+| `fig7_auroc_vs_target_coherence` | Fig. 4 |
+| `fig8_top_bottom_adrs` | Fig. 5 |
+| `fig9_enrichment_along_ranking` | Fig. 6 |
+| `fig1_gene_vs_side_effect_similarity` | Fig. S1 |
+| `fig2_network_train_test` | Fig. S2 |
+| `fig3_auroc_vs_auprc` | Fig. S3 |
+| `fig6_harmonic_vs_knn` | Fig. S4 |
 | `figS1_auroc_vs_auprc_per_fold` | not used |
 
 Fig. 1 (study workflow) was drawn separately and is not produced by the notebook.
