@@ -71,7 +71,7 @@ numpy  pandas  scipy  scikit-learn  networkx  matplotlib  gseapy
 
 ```bash
 pip install numpy pandas scipy scikit-learn networkx matplotlib gseapy jupyter
-jupyter notebook Drug-SE-Gene_interaction_revised.ipynb
+jupyter notebook Drug-Gene-SE-NM-Manuscript.ipynb
 ```
 
 Set `DATA_DIR` in the configuration cell to the folder that contains the two data files. The Google Drive cell is skipped automatically outside Colab.
